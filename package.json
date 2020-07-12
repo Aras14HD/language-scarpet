@@ -1,0 +1,14 @@
+{
+  "name": "language-scarpet",
+  "version": "0.0.1",
+  "description": "Adds support for the scarpet/carpet script language",
+  "keywords": [
+    "language",
+    "grammar"
+  ],
+  "repository": "https://github.com/Aras14HD/language-scarpet",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
